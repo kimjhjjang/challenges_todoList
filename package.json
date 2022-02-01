@@ -60,5 +60,5 @@
     "@typescript-eslint/parser": "^5.9.1",
     "eslint": "^8.7.0"
   },
-  "homepage": "https://kimjhjjang.github.io/challenges_todoList"
+  "homepage": "https://kimjhjjang.github.io/challenges_todoList/"
 }
