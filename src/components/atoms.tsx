@@ -22,7 +22,7 @@ const localData = JSON.parse(getTodo as any);
 
 export const toDoState = atom<IToDo[]>({
     key: "toDo", 
-    default: localData === null ? [] : localData
+    default: localData === null ? [] : localData,
 });
  
 export const toDoSelector = selector({
