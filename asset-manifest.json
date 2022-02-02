@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/challenges_todoList/static/js/main.e555d6f7.js",
+    "main.js": "/challenges_todoList/static/js/main.3a2a7490.js",
     "index.html": "/challenges_todoList/index.html",
-    "main.e555d6f7.js.map": "/challenges_todoList/static/js/main.e555d6f7.js.map"
+    "main.3a2a7490.js.map": "/challenges_todoList/static/js/main.3a2a7490.js.map"
   },
   "entrypoints": [
-    "static/js/main.e555d6f7.js"
+    "static/js/main.3a2a7490.js"
   ]
 }
